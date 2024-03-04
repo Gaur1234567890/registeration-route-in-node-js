@@ -7,4 +7,4 @@ let myValidator = (req,res,next)=>{
         next();
     }
 }
-module.exports = {myValidator : myValidator}
+module.exports = {myValidator : myValidator} 
